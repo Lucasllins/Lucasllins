@@ -21,15 +21,14 @@
 
   <br><br>
 
-  <div style="display: inline-block">
+<div style="display: inline-block">
     <a href="https://github.com/Lucasllins">
-      <img align="center" height="150" src="https://github-readme-stats.vercel.app/api?username=Lucasllins&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true&hide_border=true"/>
+      <img align="center" height="150" src="https://github-readme-stats.vercel.app/api?username=Lucasllins&show_icons=true&theme=tokyonight&hide_border=true"/>
     </a>
     <a href="https://github.com/Lucasllins">
       <img align="center" height="150" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Lucasllins&layout=compact&langs_count=6&theme=tokyonight&hide_border=true"/>
     </a>
   </div>
-
   <br><br>
 
   <h3>📫 Conecte-se comigo:</h3>
